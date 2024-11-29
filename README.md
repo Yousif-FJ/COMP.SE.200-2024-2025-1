@@ -1,3 +1,5 @@
+[![Test and Coverage](https://github.com/Yousif-FJ/COMP.SE.200-2024-2025-1/actions/workflows/coveralls.yml/badge.svg)](https://github.com/Yousif-FJ/COMP.SE.200-2024-2025-1/actions/workflows/coveralls.yml)
+[![Coverage Status](https://coveralls.io/repos/github/Yousif-FJ/COMP.SE.200-2024-2025-1/badge.svg?branch=main)](https://coveralls.io/github/Yousif-FJ/COMP.SE.200-2024-2025-1?branch=main)
 # Student template
 
 ## Purpose of this repository
