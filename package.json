@@ -5,13 +5,14 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "mocha",
+    "test": "mocha --reporter mochawesome",
     "test-coverage": "npx c8 npm test"
   },
   "author": "",
   "license": "MIT",
   "devDependencies": {
     "c8": "^10.1.2",
-    "mocha": "^10.8.2"
+    "mocha": "^10.8.2",
+    "mochawesome": "^7.1.3"
   }
 }
