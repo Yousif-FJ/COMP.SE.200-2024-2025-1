@@ -65,4 +65,9 @@ describe('isEmpty', function(){
         child.ownProperty = 'own';
         assert.strictEqual(isEmpty(child), false);
     });
+
+    it('should return true for Object.prototype', function() {
+        assert.strictEqual(isEmpty(Object.prototype), true);
+    });
+    
 });
